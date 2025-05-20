@@ -61,6 +61,3 @@ train_data.head()
 - This notebook is intended for educational and experimentation purposes.
 - If running outside Kaggle, update the dataset path accordingly.
 
-## 📄 License
-
-This project is licensed under the MIT License.
